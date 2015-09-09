@@ -1,0 +1,29 @@
+{
+    "name": "kfosoft/php-restful-client",
+    "description": "PHP RESTful Client",
+    "keywords": [
+        "php",
+        "php rest",
+        "php rest client",
+        "rest client",
+        "rest",
+        "php restful",
+        "php restful client",
+        "restful client",
+        "restful"
+    ],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Cyril Turkevich",
+            "email": "cyril.turkevich@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "kfosoft/php-xml-helper":"1.0"
+    },
+    "autoload": {
+        "psr-4": {"kfosoft\\": ""}
+    }
+}

@@ -1,4 +1,4 @@
-# RESTful PHP Client
+# PHP RESTful Client
 ## Installation
 
 Installation with Composer
